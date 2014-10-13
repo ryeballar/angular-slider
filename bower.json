@@ -1,7 +1,10 @@
 {
     "name": "angular-slider",
     "version": "0.3.2",
-    "main": "./build/angular-slider.js",
+    "main": [
+        "./build/angular-slider.js",
+        "./build/angular-sider.css"
+    ],
     "ignore": [
         "**/.*",
         "node_modules",
