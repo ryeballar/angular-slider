@@ -3,7 +3,7 @@
     "version": "0.3.2",
     "main": [
         "./build/angular-slider.js",
-        "./build/angular-sider.css"
+        "./build/angular-slider.css"
     ],
     "ignore": [
         "**/.*",
